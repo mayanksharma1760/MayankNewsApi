@@ -17,6 +17,8 @@ export default class App extends Component {
       <div>
 
         <Router>
+
+          
         <Navbar/>
         <LoadingBar 
         color='#f11946'
